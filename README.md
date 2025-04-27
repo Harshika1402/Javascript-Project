@@ -1,0 +1,1 @@
+This is a project on digital clock which is based on html css & javascript. It includes conccepts like: Date object, setInterval, DOM . It includes features such as: displays real-time time updates , uses setInterval to update every second.
